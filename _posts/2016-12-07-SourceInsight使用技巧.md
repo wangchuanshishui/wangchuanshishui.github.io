@@ -46,7 +46,7 @@ keywords: 效率
 
 配置分享:
 
-这是我现在使用的[配置(https://github.com/wangchuanshishui/wangchuanshishui.github.io/blob/master/images/sourceInsight_config/GLOBAL.CF3)，应用前请备份自己的配置，因为每个人都有自己的喜好，如果你不喜欢还可以还原回去。
+这是我现在使用的[配置](https://github.com/wangchuanshishui/wangchuanshishui.github.io/blob/master/images/sourceInsight_config/GLOBAL.CF3)，应用前请备份自己的配置，因为每个人都有自己的喜好，如果你不喜欢还可以还原回去。
 
 
 
